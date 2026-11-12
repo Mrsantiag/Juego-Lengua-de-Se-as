@@ -13,12 +13,6 @@ index.html      -> el juego y el repaso
 imagenes/       -> una imagen por seña (frijol.png, frio.png, ...)
 ```
 
-## Publicar en GitHub Pages
-1. Crea un repositorio y sube `index.html` y la carpeta `imagenes/`.
-2. Ve a **Settings → Pages**.
-3. En *Source* elige **Deploy from a branch**, rama `main`, carpeta `/ (root)`.
-4. Espera 1–2 minutos: quedará en `https://TU-USUARIO.github.io/NOMBRE-REPO/`.
-
 ## Agregar una seña nueva
 1. Pon la imagen en `imagenes/` (ej. `arroz.png`).
 2. En `index.html`, dentro de `questionsDatabase`, agrega una línea:
